@@ -1,0 +1,1 @@
+<img src="<?php echo asset_url();?>img/maintenance.jpg" width="100%" height="95%">
